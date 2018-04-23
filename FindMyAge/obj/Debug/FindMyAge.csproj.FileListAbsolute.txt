@@ -1,0 +1,13 @@
+C:\Users\Gultekin\source\repos\FindMyAge\FindMyAge\bin\Debug\FindMyAge.exe.config
+C:\Users\Gultekin\source\repos\FindMyAge\FindMyAge\bin\Debug\FindMyAge.exe
+C:\Users\Gultekin\source\repos\FindMyAge\FindMyAge\bin\Debug\FindMyAge.pdb
+C:\Users\Gultekin\source\repos\FindMyAge\FindMyAge\obj\Debug\FindMyAge.csprojResolveAssemblyReference.cache
+C:\Users\Gultekin\source\repos\FindMyAge\FindMyAge\obj\Debug\FindMyAge.Form1.resources
+C:\Users\Gultekin\source\repos\FindMyAge\FindMyAge\obj\Debug\FindMyAge.Properties.Resources.resources
+C:\Users\Gultekin\source\repos\FindMyAge\FindMyAge\obj\Debug\FindMyAge.csproj.GenerateResource.Cache
+C:\Users\Gultekin\source\repos\FindMyAge\FindMyAge\obj\Debug\FindMyAge.csproj.CoreCompileInputs.cache
+C:\Users\Gultekin\source\repos\FindMyAge\FindMyAge\obj\Debug\FindMyAge.exe
+C:\Users\Gultekin\source\repos\FindMyAge\FindMyAge\obj\Debug\FindMyAge.pdb
+C:\Users\Gultekin\source\repos\FindMyAge\FindMyAge\bin\Debug\en\FindMyAge.resources.dll
+C:\Users\Gultekin\source\repos\FindMyAge\FindMyAge\obj\Debug\FindMyAge.Form1.en.resources
+C:\Users\Gultekin\source\repos\FindMyAge\FindMyAge\obj\Debug\en\FindMyAge.resources.dll
